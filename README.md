@@ -36,7 +36,6 @@ Type ```weblimiter``` or ```python3 bin/weblimiter``` to run the tool.
 
 
 ## JustForPrank
- Web Limiter is compatible with your equipment and other software installed on your equipment. You are also solely responsible for the protection of your equipment and backup of your data, and the provider will not be liable for any damages you may suffer in connection with using, modifying, or distributing this software. 
 
 
 
