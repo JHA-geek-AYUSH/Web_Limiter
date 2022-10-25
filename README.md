@@ -11,7 +11,7 @@ Possibly missing python packages will be installed during the installation proce
 ## Installation
 
 ```bash
-git clone https://github.com/bitbrute/weblimiter.git
+git clone https://github.com/jha-ayush-07/Web_Limiter.git
 cd weblimiter
 sudo python3 setup.py install
 ```
